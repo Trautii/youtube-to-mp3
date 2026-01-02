@@ -1,4 +1,5 @@
 # youtube-to-mp3
+Will download youtube video(s) and convert them to MP3s. You can choose between single video/song, playlists, etc.
 
 Depends on:
 yt-dlp
