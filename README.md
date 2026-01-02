@@ -15,7 +15,7 @@ youtube-to-mp3.sh [--mode single|playlist|auto] [--sanitize auto|on|off] [--out 
 
 
 Example:
-Download a single mp3 from a URL:
+Download a single mp3 from a URL:\n
 ./youtube-to-mp3.sh https://www.youtube.com/watch?v=-YVlgXN7spw&list=RD-YVlgXN7spw&start_radio=1
 
 
