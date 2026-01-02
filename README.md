@@ -5,8 +5,7 @@ Depends on:
 yt-dlp
 
 Recommended additional install:
-nodejs
-ffmpeg
+nodejs, ffmpeg
 
 
 
